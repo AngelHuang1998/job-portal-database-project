@@ -44,6 +44,7 @@ The database includes the following tables:
 - `JobApplication` *(linking table between JobSeeker and JobPosting)*
 
 All schema definitions and relationships are included in [Job_Portal_Database.sql](Job_Portal_Database.sql).
+
 ---
 
 ## 📊 Example SQL Views
@@ -58,7 +59,7 @@ The following example queries demonstrate the use of views to analyze and extrac
 6. **Employers with multiple job postings**
 7. **Job postings in healthcare industry**
 
-Refer to the [PDF project report](Job_Portal_DesignReport.pdf) for full query definitions.
+Refer to the [Design report](Job_Portal_DesignReport.pdf) for full query definitions.
 
 ---
 
