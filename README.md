@@ -73,3 +73,4 @@ Refer to the [Design report](Job_Portal_DesignReport.pdf) for full query definit
 2. Open MySQL Workbench
 3. Use the **"Data Import"** feature to import the `Job_Portal_Database.sql` file
 4. Explore the schema, run queries, or create new views!
+"" 
