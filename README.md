@@ -43,8 +43,7 @@ The database includes the following tables:
 - `WorkLocation`
 - `JobApplication` *(linking table between JobSeeker and JobPosting)*
 
-All schema definitions and relationships are included in [`Job Portal Database.sql`](Job%20Portal%20Database.sql).
-
+All schema definitions and relationships are included in [`Job_Portal_Database.sql`](Job_Portal_Database.sql).
 ---
 
 ## 📊 Example SQL Views
