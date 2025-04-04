@@ -10,12 +10,6 @@ The **Job Portal Database** is designed to support job seekers in finding employ
 
 ---
 
-## 👩‍💼 Team Member
-
-- Angel Huang
-
----
-
 ## 🎯 Mission Objectives
 
 1. Maintain complete employer information including company name, size, contact info, and industry.
