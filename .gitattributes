@@ -1,1 +1,6 @@
 *.sql linguist-language=SQL
+*.pdf linguist-documentation
+*.png linguist-documentation
+*.md linguist-documentation
+
+
