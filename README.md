@@ -28,7 +28,7 @@ The **Job Portal Database** is designed to support job seekers in finding employ
 
 ## 🗂️ Entity-Relationship Diagram (ERD)
 
-![ER Diagram](Job_Poetal_DB_ERD.png)
+![ER Diagram](Job_Portal_ERD.png)
 
 ---
 
@@ -59,7 +59,7 @@ The following example queries demonstrate the use of views to analyze and extrac
 6. **Employers with multiple job postings**
 7. **Job postings in healthcare industry**
 
-Refer to the [PDF project report](Jod_Portal_DesignReport.pdf) for full query definitions.
+Refer to the [PDF project report](Job_Portal_DesignReport.pdf) for full query definitions.
 
 ---
 
