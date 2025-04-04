@@ -71,3 +71,4 @@ The following example queries demonstrate the use of views to analyze and extrac
 3. Use the **"Data Import"** feature to import the `Job_Portal_Database.sql` file
 4. Explore the schema, run queries, or create new views!
 "" 
+"" 
