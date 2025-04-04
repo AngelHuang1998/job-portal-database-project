@@ -28,7 +28,7 @@ The **Job Portal Database** is designed to support job seekers in finding employ
 
 ## 🗂️ Entity-Relationship Diagram (ERD)
 
-![ER Diagram](Job%20Portal%20ERD.png)
+![ER Diagram](Job_Poetal_DB_ERD.png)
 
 ---
 
