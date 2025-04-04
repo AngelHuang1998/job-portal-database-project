@@ -59,7 +59,7 @@ The following example queries demonstrate the use of views to analyze and extrac
 6. **Employers with multiple job postings**
 7. **Job postings in healthcare industry**
 
-Refer to the [PDF project report](LIS751_design_Report.pdf) for full query definitions.
+Refer to the [PDF project report](Jod_Portal_DesignReport.pdf) for full query definitions.
 
 ---
 
@@ -68,8 +68,8 @@ Refer to the [PDF project report](LIS751_design_Report.pdf) for full query defin
 | File                          | Description                                         |
 |-------------------------------|-----------------------------------------------------|
 | `Job_Portal_Database.sql`     | SQL schema and data dump for the project            |
-| `Job_Searching_ERD.png`       | ER Diagram showing table structure and relationships |
-| `LIS751_Design_Report.pdf` | Full project report including queries and goals    |
+| `Job_Portal_ERD.png`          | ER Diagram showing table structure and relationships|
+| `Jod_Portal_DesignReport.pdf` | Full project report including queries and goals     |
 
 ---
 
